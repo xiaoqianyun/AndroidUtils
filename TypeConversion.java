@@ -1,4 +1,3 @@
-package com.example.bluetoothlibrary.utils;
 
 /**
  * 类型转换
